@@ -13,4 +13,3 @@ Create a python code which can fetch following detail of system's
 10.Public IP address
 11.Windows version
 
-
